@@ -1,0 +1,11 @@
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\bin\Debug\netcoreapp3.1\CodeToBeReviewed.exe
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\bin\Debug\netcoreapp3.1\CodeToBeReviewed.deps.json
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\bin\Debug\netcoreapp3.1\CodeToBeReviewed.runtimeconfig.json
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\bin\Debug\netcoreapp3.1\CodeToBeReviewed.runtimeconfig.dev.json
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\bin\Debug\netcoreapp3.1\CodeToBeReviewed.dll
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\bin\Debug\netcoreapp3.1\CodeToBeReviewed.pdb
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\obj\Debug\netcoreapp3.1\CodeToBeReviewed.csprojAssemblyReference.cache
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\obj\Debug\netcoreapp3.1\CodeToBeReviewed.AssemblyInfoInputs.cache
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\obj\Debug\netcoreapp3.1\CodeToBeReviewed.AssemblyInfo.cs
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\obj\Debug\netcoreapp3.1\CodeToBeReviewed.dll
+C:\Users\Joseph Marrows\source\repos\CodeToBeReviewed\CodeToBeReviewed\obj\Debug\netcoreapp3.1\CodeToBeReviewed.pdb
